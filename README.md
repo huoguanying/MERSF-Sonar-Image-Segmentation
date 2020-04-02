@@ -1,5 +1,5 @@
 # MERSF-Sonar-Image-Segmentation
-A Robust and Fast Method for Sidescan Sonar Image Segmentation Using Nonlocal Despeckling and Active Contour Model
+A Robust and Fast Method for Sidescan Sonar Image Segmentation Using Nonlocal Despeckling and Active Contour Model.
 This software is a matlab version which implemented the method in the paper "A Robust and Fast Method for Sidescan Sonar Image Segmentation Using Nonlocal Despeckling and Active Contour Model "(IEEE TCYB，2017). To use the software, you simply following the steps below:
 1. Unzip the “MERSF Segmentation Sidescan sonar image.zip”into your desired directory;
 2. Start the Matlab program(a version of R2017B or later is ok);
